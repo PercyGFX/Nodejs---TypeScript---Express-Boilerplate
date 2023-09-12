@@ -1,9 +1,9 @@
 #  NodeJS + Express + Nodemon Boilerplate
 
-### Dev run with nodemon
+### Dev run with nodemon + typescript watch mode
 
-    npm start
+    npm run start
 
 ### build
 
-    npm build
+    npm run build
